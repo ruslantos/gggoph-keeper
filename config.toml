@@ -1,0 +1,14 @@
+[database]
+host = "localhost"
+port = 5432
+user = "postgres"
+password = "secret"
+name = "mydb"
+url = "user=videos password=password dbname=shortenerdatabase sslmode=disable"
+
+[server]
+port = 8080
+env = "development"
+
+[other]
+secret = "KMgZ3QJHZzse/njDeZEHeWIyR4/iPWH9Epciiyc6/RttpSN09uweIdo85tzrfQCI"
